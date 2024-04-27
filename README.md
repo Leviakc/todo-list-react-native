@@ -1,8 +1,17 @@
+## Articles and packages
+
+[React Native Gesture Handler: Swipe, long-press, and more](https://blog.logrocket.com/react-native-gesture-handler-swipe-long-press-and-more/)
+[react-native-gesture-handler](https://www.npmjs.com/package/react-native-gesture-handler)
+
+## Figma
+
+## [To_do_list_app\_\_\_React_Native](https://www.figma.com/file/ViV59mpR5C2PSqwWpMaiSv/To_do_list_app___React_Native?type=design&node-id=0-1&mode=design&t=1ivD5uwIdjhVmU2z-0)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+> **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 ## Step 1: Start the Metro Server
 
